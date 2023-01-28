@@ -1,0 +1,24 @@
+.font-style{
+    font-family: 'EB Garamond', serif;
+  }
+  /* buttons color- 
+  ----------------*/
+
+  .color,.secound-color,.third-color{
+    background-color: #B68C5A;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  slider gradianr  
+  .gradient,.gradient-two{
+    background : linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%);
+    background-color: #111111;
+
+  }
+  /* card gradian 
+  --------------*/
+
+  .gradient-three{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+    
+  }
